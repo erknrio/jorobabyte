@@ -1,0 +1,13 @@
+{
+  "name": "jorobabyte",
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.1.4",
+    "cropper": "2.2.0",
+    "selectize": "0.12.1",
+    "microplugin": "0.0.3",
+    "sifter": "0.4.5",
+    "underscore": "1.8.3",
+    "jasmine": "~2.4.1"
+  }
+}
